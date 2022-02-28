@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/disrupt-yahoo-finance-api-workshop/static/css/main.0669a7e3.css",
+    "main.js": "/disrupt-yahoo-finance-api-workshop/static/js/main.41529a2e.js",
+    "static/js/787.67b8abf9.chunk.js": "/disrupt-yahoo-finance-api-workshop/static/js/787.67b8abf9.chunk.js",
+    "index.html": "/disrupt-yahoo-finance-api-workshop/index.html",
+    "main.0669a7e3.css.map": "/disrupt-yahoo-finance-api-workshop/static/css/main.0669a7e3.css.map",
+    "main.41529a2e.js.map": "/disrupt-yahoo-finance-api-workshop/static/js/main.41529a2e.js.map",
+    "787.67b8abf9.chunk.js.map": "/disrupt-yahoo-finance-api-workshop/static/js/787.67b8abf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0669a7e3.css",
+    "static/js/main.41529a2e.js"
+  ]
+}
